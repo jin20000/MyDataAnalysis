@@ -12,6 +12,6 @@
 
 ## [차량 구매 데이터 분석해 보기]
  * 데이터 참조 : https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset
- * (1) 데이터 탐색, 전처리, 시각화 [html](https://jin20000.github.io/MyDataAnalysis/DataAnalysis.html)
+ * (1) 데이터 탐색, 전처리, 시각화 [html](https://github.com/jin20000/MyDataAnalysis/blob/main/DataAnalysis.ipynb)
  * (2) 머신러닝 기본 모델 만들어보기
  * (3) 모델 성능 개선(평가 및 비교)
