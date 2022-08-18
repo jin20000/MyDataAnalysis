@@ -9,3 +9,9 @@
     * IRIS EDA [html](https://jin20000.github.io/MyDataAnalysis/IRIS_BASIC01.html)
 	  * IRIS 기본 모델 만들기 [html]()
 	  * IRIS 모델 평가 [html]()
+
+## [차량 구매 데이터 분속해 보기]
+ * 데이터 참조 : https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset
+ * 내용 : (1) 데이터 탐색, 전처리, 시각화
+          (2) 머신러닝 기본 모델 만들어보기
+	  (3) 모델 성능 개선(평가 및 비교)
